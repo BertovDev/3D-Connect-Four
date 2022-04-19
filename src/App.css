@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  z-index: -1;
+}
+
+body {
+  background-color: rgb(231, 231, 231);
+}
+
+
+.game_over {
+  display: none;
+}
+
+.turns {
+  display: initial;
+}
+
+.header {
+  margin-top: 20vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 2rem;
+}
