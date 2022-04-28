@@ -1,5 +1,5 @@
 3D Connect Four crated using React-three-fiber , Drei , tailwind and other tools.
-Check the demo : https://clinquant-alfajores-8ffa5a.netlify.app/
+Check the demo : https://connectfour3d.netlify.app/
 
 ## Available Scripts
 
